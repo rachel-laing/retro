@@ -163,3 +163,9 @@ cython_debug/
 ./sandbox/PyR0_Ranked_Strains.tsv
 ./sandbox/PyR0_Ranked_Mutations.tsv
 ./.git/objects/pack/pack-e27e6de714f6e6923cd27dd72dd80d44eb111315.pack
+./sandbox/archive/PyR0_Ranked_Strains.tsv
+./sandbox/archive/PyR0_Ranked_Mutations.tsv
+./sandbox/PyR0_Ranked_Strains.tsv
+./sandbox/PyR0_Ranked_Mutations.tsv
+./.git/objects/pack/pack-e27e6de714f6e6923cd27dd72dd80d44eb111315.pack
+./rachel/data_download.ipynb
